@@ -11,10 +11,13 @@
 #include<string.h>
 #include <openssl/sha.h>
 
-//added comment
+
+//added by other user
 
 #define PORT 9375
 
+//new changes in main branch
+//again new changes in main brach
 using namespace std;
 
 float CHUNKSIZE=65532;
